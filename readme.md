@@ -8,3 +8,6 @@ http://patreon.com/hanabunny
 http://hanabunny.com/
 https://twitter.com/squishubunny
 
+type: object
+
+token <sexy-housewife>
